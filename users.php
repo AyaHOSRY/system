@@ -10,7 +10,7 @@ include 'inc/des/menu.php';
         <li><a href="#">
           
         </a></li>
-        <li class="active">SEttings</li>
+        <li class="active">SETTings</li>
       </ol>
     </div><!--/.row-->
     
